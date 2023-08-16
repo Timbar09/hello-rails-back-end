@@ -23,7 +23,7 @@
 
 # 📖 Hello rails backend <a name="about-project"></a>
 
-> This is an API that generates a random greeting.
+> This is an API that generates a random greeting. The API is consumed by this [React front-end](https://github.com/Timbar09/hello-react-front-end) app.
 
 ## 🛠 Built With <a name="built-with"></a>
 

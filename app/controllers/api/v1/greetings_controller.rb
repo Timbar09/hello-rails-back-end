@@ -1,4 +1,4 @@
-class Api::V1::GreetingsController < Api::V1::BaseController
+class Api::V1::GreetingsController < ApplicationController
   def index
     @greeting = Greeting.all.sample
 
